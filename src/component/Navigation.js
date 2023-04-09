@@ -13,6 +13,7 @@ function Navigation(props) {
             <Nav.Link href="/Login">Login</Nav.Link>
             <Nav.Link href="/Search">Search</Nav.Link>
             <Nav.Link href="/Auction">Autcion</Nav.Link>
+            
         </Nav>
       </Container>
     </Navbar>
